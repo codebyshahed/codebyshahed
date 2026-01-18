@@ -8,6 +8,6 @@ My current stack is:
 - **Frontend**: Tailwind CSS, JavaScript, React.js, Next.js
 - **Backend**: 𝖭𝗈𝖽𝖾.𝗃𝗌, 𝖤𝗑𝗉𝗋𝖾𝗌𝗌.𝗃𝗌
 - **Database**: 𝖬𝗈𝗇𝗀𝗈𝖣𝖡
-- **Tools**:
+- **Tools**: VS Code, Git, Figma
 
 **Hobbies**: `Coding`, `Travel`, `Cycling`
