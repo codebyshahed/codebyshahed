@@ -1,6 +1,6 @@
 Hey there!
 
-I'm [Shahed](https://github.com/codebyshahed), A passionate web developer who loves to create stunning, pixel-perfect, interactive websites. I can create websites that increase your business sales.
+I'm [Shahed](https://github.com/codebyshahed), a passionate web developer who loves to create stunning, pixel-perfect, interactive websites. I can create websites that increase your business sales.
 I'm not special - but I work hard, like any good developer.
 
 My current stack is:
@@ -10,4 +10,4 @@ My current stack is:
 - **Database**: 𝖬𝗈𝗇𝗀𝗈𝖣𝖡
 - **Tools**: VS Code, Git, Figma
 
-**Hobbies**: `Coding`, `Travel`, `Cycling`
+**Hobbies**: `Coding`, `Travelling`, `Cycling`
