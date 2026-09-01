@@ -1,6 +1,6 @@
 ### Nice to see you here 👋
 
-I'm **[Shahed](https://github.com/uownist)**, a **MERN Stack Developer** from **Dhaka, Bangladesh** 🇧🇩. I love building projects, solving problems, and creating websites that help businesses grow.
+I'm **[Shahed](https://github.com/uownist)**, a **MERN Stack Developer** from **Dhaka, Bangladesh**. I love building projects, solving problems, and creating websites that help businesses grow.
 
 [![Discord](https://img.shields.io/badge/-uownist-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1326255849383006238)
 [![Instagram](https://img.shields.io/badge/-@uownist-F32763?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/uownist)
@@ -14,7 +14,3 @@ I'm currently learning and building with the **MERN stack** step by step. Practi
 ###
 
 **Contact Me**: [Email](mailto:iamownist@gmail.com) • [IG](https://www.instagram.com/uownist)
-
-###
-
-![Shahed Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uownist&radius=6&height=280&bg_color=202124&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
